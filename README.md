@@ -1,6 +1,4 @@
-###👋 Hi there..!  
-
-Thank you for visiting my GitHub profile. 
+👋 Hi! I'm Rahul Gadre!  Thank you for visiting my GitHub profile. 
 
 <br>
 <!--**rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started: -->
