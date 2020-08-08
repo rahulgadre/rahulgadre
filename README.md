@@ -2,14 +2,9 @@
 Hi there..! 👋 <br>
 
 Thank you for visiting my GitHub profile. 
-
-
-<!--
-**rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
+<br>
+<br> 
+<!--**rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started: -->
 🔭 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website</b> </a> 
 <br>
 <br>  
@@ -28,7 +23,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-📫 Let's connect: <br>
+📫 Let's connect: 
+<br>
 <br> 
   <a href="https://www.linkedin.com/in/rahulgadre/">
    <img align="left" alt="Rahul Gadre | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
@@ -40,8 +36,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Rahul Gadre | Dev" width="24px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />
   </a>
 <br>
-
 <br>
 Visitor Count :
 <br>
-[Visitor Count](https://profile-counter.glitch.me/%7Brahulgadre%7D/count.svg)
+[Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
