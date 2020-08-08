@@ -8,8 +8,10 @@ Thank you for visiting my GitHub profile.
 
 Here are some ideas to get you started:
 -->
-🔭 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website</b> </a> **<br>
 
+🔭 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website</b> </a> <br>
+<br>  
+<br>
 🌱 I enjoy working on Cloud and DevOps technologies
 <br>  
 <br>
@@ -25,9 +27,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
-📫 Let's connect:  <br>
-
+📫 Let's connect: <br>
 <br> 
   <a href="https://www.linkedin.com/in/rahulgadre/">
    <img align="left" alt="Rahul Gadre | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-**Visitor Count :**
+**Visitor Count :
 <br>
 ![Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
