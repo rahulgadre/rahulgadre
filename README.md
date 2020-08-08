@@ -35,4 +35,5 @@ Visitor Count :
 <br>
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
+[![Visitor Count: ](http://hits.dwyl.com/rahulgadre/rahulgadre.svg)](http://hits.dwyl.com/rahulgadre/rahulgadre)
+
