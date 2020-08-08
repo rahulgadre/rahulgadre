@@ -1,8 +1,5 @@
 
-Hi there..! 👋 
-<br>
-<br>
-Thank you for visiting my GitHub profile. 
+Hi there..! 👋 Thank you for visiting my GitHub profile. 
 <br>
 <!--**rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started: -->
 🔭 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website</b> </a> 
