@@ -4,10 +4,8 @@ Hi there..! 👋
 <br>
 Thank you for visiting my GitHub profile. 
 <br>
-<br> 
 <!--**rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started: -->
 🔭 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website</b> </a> 
-<br>
 <br>  
 🌱 I enjoy working on Cloud and DevOps technologies
 <br>  
