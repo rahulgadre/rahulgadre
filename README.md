@@ -3,6 +3,7 @@ Hi there..! 👋 <br>
 
 Thank you for visiting my GitHub profile. 
 
+
 <!--
 **rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,4 +44,4 @@ Here are some ideas to get you started:
 <br>
 Visitor Count :
 <br>
-[Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
+[Visitor Count](https://profile-counter.glitch.me/%7Brahulgadre%7D/count.svg)
