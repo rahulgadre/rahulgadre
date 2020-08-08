@@ -1,6 +1,7 @@
 
-Hi there..! 👋 <br>
-
+Hi there..! 👋 
+<br>
+<br>
 Thank you for visiting my GitHub profile. 
 <br>
 <br> 
@@ -39,4 +40,4 @@ Thank you for visiting my GitHub profile.
 <br>
 Visitor Count :
 <br>
-[Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
