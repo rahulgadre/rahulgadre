@@ -9,7 +9,6 @@ Thank you for visiting my GitHub profile.
 <br>  
 🌱 I enjoy working on Cloud and DevOps technologies
 <br>  
-<br>
 ✨ I am passionate about working on: <br>
 <br>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
