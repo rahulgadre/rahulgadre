@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 <br>
 Visitor Count :
 <br>
-![Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
+[Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
