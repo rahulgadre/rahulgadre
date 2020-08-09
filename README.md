@@ -4,13 +4,16 @@
 
 <br>
 <!--**rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started: -->
-🔭 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website 🌍 </b> </a> 
+
+#### 🔭 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website 🌍 </b> </a> 
 <br>  
 <br>  
-🌱 I enjoy working on Cloud ☁️ and DevOps technologies.
+
+#### 🌱 I enjoy working on Cloud ☁️ and DevOps technologies.
 <br> 
-<br>   
-✨ I am passionate about working on: <br>
+<br>  
+
+#### ✨ I am passionate about working on: <br>
 <br>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a></code>
@@ -23,7 +26,6 @@
 <br>
 
 #### 📫 Let's connect: 
-<br>
 <br> 
   <a href="https://www.linkedin.com/in/rahulgadre/">
    <img align="left" alt="Rahul Gadre | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
@@ -37,8 +39,7 @@
 <br>
 <br>
 
-[![Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=rahulgadre)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=rahulgadre&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 Visitor Count :
 <br>
