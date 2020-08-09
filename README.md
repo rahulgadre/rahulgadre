@@ -1,10 +1,10 @@
-### 👋 Hi! I'm Rahul Gadre!  
+## 👋 Hi! I'm Rahul Gadre!  
 <!--**rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started: -->
-#### 🌍 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website </b> </a> 
+### 🌐 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website </b> </a> 
 
-#### 🌱 I enjoy working on Cloud ☁️ and DevOps technologies.
+### ⚡  I enjoy working on Cloud ☁️ and DevOps technologies.
 
-#### ✨ I am passionate about working on: <br>
+### ✨ I am passionate about working on: <br>
 <br>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a></code>
@@ -14,7 +14,7 @@
 <code><a href="https://www.centos.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
-#### 📫 Let's connect: 
+### 📫 Let's connect: 
   <a href="https://www.linkedin.com/in/rahulgadre/">
    <img align="left" alt="Rahul Gadre | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
   </a>
