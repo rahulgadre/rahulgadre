@@ -4,10 +4,12 @@
 
 <br>
 <!--**rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started: -->
-🔭 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website</b> </a> 
+🔭 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website 🌍 </b> </a> 
+<br>  
 <br>  
 🌱 I enjoy working on Cloud ☁️ and DevOps technologies.
-<br>  
+<br> 
+<br>   
 ✨ I am passionate about working on: <br>
 <br>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
@@ -19,7 +21,8 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <br>
 <br>
-📫 Let's connect: 
+
+#### 📫 Let's connect: 
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/rahulgadre/">
@@ -33,9 +36,14 @@
   </a>
 <br>
 <br>
+
+[![Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=rahulgadre)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Visitor Count :
 <br>
 <br>
 
-[![Visitor Count: ](http://hits.dwyl.com/rahulgadre/rahulgadre.svg)](http://hits.dwyl.com/rahulgadre/rahulgadre)
+![Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
+
 
