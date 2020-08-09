@@ -27,7 +27,7 @@
 <br>
 <br>
 
-[![Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=rahulgadre&show_icons=true&theme=gruvbox)]
+![Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=rahulgadre&show_icons=true&theme=gruvbox)
 
 Visitor Count :
 <br>
