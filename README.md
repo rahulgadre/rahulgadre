@@ -19,7 +19,6 @@
 <br>
 
 #### 📫 Let's connect: 
-<br> 
   <a href="https://www.linkedin.com/in/rahulgadre/">
    <img align="left" alt="Rahul Gadre | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
   </a>
