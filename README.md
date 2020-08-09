@@ -1,6 +1,4 @@
 ### 👋 Hi! I'm Rahul Gadre!  
-
-#### Thank you for visiting my GitHub profile. 
 <!--**rahulgadre/rahulgadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started: -->
 #### 🌍 Visit my <a href="https://rahulgadre.com"><b>Portfolio Website </b> </a> 
 
@@ -15,8 +13,6 @@
 <code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
 <code><a href="https://www.centos.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<br>
-<br>
 
 #### 📫 Let's connect: 
   <a href="https://www.linkedin.com/in/rahulgadre/">
