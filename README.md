@@ -45,8 +45,5 @@
 <br>
 <br>
 
-![Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=rahulgadre&show_icons=true&theme=gruvbox)
-
-![Visitor Count](https://profile-counter.glitch.me/{rahulgadre}/count.svg)
-
-
+## Profile Views
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=rahulgadre" alt="Rahul Gadre" /> <h2>
