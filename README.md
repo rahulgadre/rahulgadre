@@ -6,6 +6,7 @@
 
 ### ✨ I am passionate about working on: <br>
 <br>
+ <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="110" height="30" />
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
