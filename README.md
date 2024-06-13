@@ -6,17 +6,17 @@
 
 ### ✨ I am passionate about working on: <br>
 <p align="left">
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="110" height="30" />
 <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="110" height="30" />
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="90" height="30"/>
 <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="120" height="30"/>
-<code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a></code>
+<img alt="Ansible" src="https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square" width="110" height="30"/>
 <img alt="vmware"src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" width="110" height="30"/> 
-<code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
-<code><a href="https://www.centos.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="130" height="30" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="110" height="30" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
 </p>
 
@@ -35,17 +35,10 @@
 </p>
 
 ### 📫 Let's connect: 
-  <a href="https://www.linkedin.com/in/rahulgadre/">
-   <img align="left" alt="Rahul Gadre | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
-  </a>
-  <a href="https://twitter.com/rggadre">
-    <img align="left" alt="Rahul Gadre | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
-  </a>
-  <a href="https://dev.to/rahulgadre">
-    <img align="left" alt="Rahul Gadre | Dev" width="24px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />
-  </a>
-<br>
-<br>
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rggadre)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulgadre)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rahulgadre)
 
 ## Profile Views
 <h2 align="center"> <img src="https://komarev.com/ghpvc/?username=rahulgadre" alt="Rahul Gadre" /> <h2>
