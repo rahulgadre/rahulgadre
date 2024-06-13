@@ -18,7 +18,6 @@
 <img alt="Red Hat" src="https://img.shields.io/badge/RedHat-E95420?style=flat-square&logo=redhat&logoColor=white" width="100" height="30"/>
 <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="130" height="30" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="110" height="30" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
 </p>
 
 ### 🏅 My achievements: 
