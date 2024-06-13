@@ -10,10 +10,12 @@
 <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="110" height="30" />
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="90" height="30"/>
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" width="100" height="30"/>
 <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="120" height="30"/>
 <img alt="Ansible" src="https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square" width="110" height="30"/>
 <img alt="vmware"src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" width="110" height="30"/> 
+<img alt="Red Hat" src="https://img.shields.io/badge/RedHat-E95420?style=flat-square&logo=redhat&logoColor=white" width="100" height="30"/>
 <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="130" height="30" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="110" height="30" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
