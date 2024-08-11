@@ -35,6 +35,7 @@
   <img src="https://images.credly.com/size/340x340/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/96012817-d2f3-4a13-8275-eb6ef323dc2b/image.png" width="125" height="125"> 
   <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" width="125" height="125"> 
 </p>
 
