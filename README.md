@@ -34,7 +34,7 @@
   <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/96012817-d2f3-4a13-8275-eb6ef323dc2b/image.png" width="125" height="125"> 
-  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" width="125" height="125"> 
   <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="125" height="125"> 
